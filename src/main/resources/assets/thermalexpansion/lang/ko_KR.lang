@@ -121,10 +121,10 @@ info.thermalexpansion.toggleFill=전환: 채우기
 
 #Tier Localization
 info.thermalexpansion.creative=크리에이티브
-info.thermalexpansion.basic=베이직
-info.thermalexpansion.hardened=하든드
-info.thermalexpansion.reinforced=리인포스드
-info.thermalexpansion.resonant=레조넌트
+info.thermalexpansion.basic=기본
+info.thermalexpansion.hardened=경화
+info.thermalexpansion.reinforced=강화
+info.thermalexpansion.resonant=공진
 
 info.thermalexpansion.augment=강화
 info.thermalexpansion.augment.energyProduced=에너지 생산
@@ -227,9 +227,9 @@ item.thermalexpansion.augment.machineSpeed2.name=시공간 자속 통합
 item.thermalexpansion.capacitor.creative.name=크리에이티브 플럭스 캐퍼시터
 item.thermalexpansion.capacitor.potato.name=튜보러스 플럭스 캐퍼시터
 item.thermalexpansion.capacitor.basic.name=리드스톤 플럭스 캐퍼시터
-item.thermalexpansion.capacitor.hardened.name=하든드 플럭스 캐퍼시터
+item.thermalexpansion.capacitor.hardened.name=경화 플럭스 캐퍼시터
 item.thermalexpansion.capacitor.reinforced.name=레드스톤 플럭스 캐퍼시터
-item.thermalexpansion.capacitor.resonant.name=레조넌트 플럭스 캐퍼시터
+item.thermalexpansion.capacitor.resonant.name=공진 플럭스 캐퍼시터
 
 item.thermalexpansion.diagram.schematic.name=청사진
 item.thermalexpansion.diagram.redprint.name=적사진
@@ -250,9 +250,9 @@ item.thermalexpansion.material.slagRich.name=풍부한 슬래그
 
 item.thermalexpansion.satchel.creative.name=크리에이티브 백
 item.thermalexpansion.satchel.basic.name=백
-item.thermalexpansion.satchel.hardened.name=하든드 백
-item.thermalexpansion.satchel.reinforced.name=리인포스드 백
-item.thermalexpansion.satchel.resonant.name=레조넌트 백
+item.thermalexpansion.satchel.hardened.name=경화 백
+item.thermalexpansion.satchel.reinforced.name=강화 백
+item.thermalexpansion.satchel.resonant.name=공진 백
 
 item.thermalexpansion.tool.invarBattleWrench.name=인바 전투 렌치
 item.thermalexpansion.tool.invarSword.name=인바 검
@@ -348,61 +348,61 @@ tab.thermalexpansion.strongbox.creative=한가지의 무한한 아이템을 보�
 
 #Blocks
 tile.thermalexpansion.cache.creative.name=크리에이티브 캐시
-tile.thermalexpansion.cache.basic.name=베이직 캐시
-tile.thermalexpansion.cache.hardened.name=하든드 캐시
-tile.thermalexpansion.cache.reinforced.name=리인포스드 캐시
-tile.thermalexpansion.cache.resonant.name=레조넌트 캐시
+tile.thermalexpansion.cache.basic.name=기본 캐시
+tile.thermalexpansion.cache.hardened.name=경화 캐시
+tile.thermalexpansion.cache.reinforced.name=강화 캐시
+tile.thermalexpansion.cache.resonant.name=공진 캐시
 
 tile.thermalexpansion.cell=에너지 셀
 tile.thermalexpansion.cell.creative.name=크리에이티브 에너지 셀
 tile.thermalexpansion.cell.basic.name=리드스톤 에너지 셀
-tile.thermalexpansion.cell.hardened.name=하든드 에너지 셀
+tile.thermalexpansion.cell.hardened.name=경화 에너지 셀
 tile.thermalexpansion.cell.reinforced.name=레드스톤 에너지 셀
-tile.thermalexpansion.cell.resonant.name=레조넌트 에너지 셀
+tile.thermalexpansion.cell.resonant.name=공진 에너지 셀
 
 tile.thermalexpansion.device.workbench.name=기계공의 작업대
 tile.thermalexpansion.device.lexicon.name=포지 렉시콘
-tile.thermalexpansion.device.activator.name=오토노머스 액티베이터
-tile.thermalexpansion.device.breaker.name=트레인 스매셔
+tile.thermalexpansion.device.activator.name=자동 활성기
+tile.thermalexpansion.device.breaker.name=지형 파괴기
 tile.thermalexpansion.device.nullifier.name=널리파이어
 
 tile.thermalexpansion.dynamo=다이나모
-tile.thermalexpansion.dynamo.steam.name=스팀 다이나모
-tile.thermalexpansion.dynamo.magmatic.name=마그마틱 다이나모
-tile.thermalexpansion.dynamo.compression.name=컴프레션 다이나모
-tile.thermalexpansion.dynamo.reactant.name=리액턴트 다이나모
+tile.thermalexpansion.dynamo.steam.name=증기 다이나모
+tile.thermalexpansion.dynamo.magmatic.name=마그마 다이나모
+tile.thermalexpansion.dynamo.compression.name=압착 다이나모
+tile.thermalexpansion.dynamo.reactant.name=반응 다이나모
 tile.thermalexpansion.dynamo.enervation.name=에너제이션 다이나모
 
 tile.thermalexpansion.ender.tesseract.name=테서락트
 
-tile.thermalexpansion.frame.machineBasic.name=머신 프레임 (베이직)
-tile.thermalexpansion.frame.machineHardened.name=머신 프레임 (하든드)
-tile.thermalexpansion.frame.machineReinforced.name=머신 프레임 (리인포스드)
-tile.thermalexpansion.frame.machineResonant.name=머신 프레임 (레조넌트)
+tile.thermalexpansion.frame.machineBasic.name=머신 프레임 (기본)
+tile.thermalexpansion.frame.machineHardened.name=머신 프레임 (경화)
+tile.thermalexpansion.frame.machineReinforced.name=머신 프레임 (강화)
+tile.thermalexpansion.frame.machineResonant.name=머신 프레임 (공진)
 tile.thermalexpansion.frame.cellBasic.name=리드스톤 에너지 셀 프레임
 tile.thermalexpansion.frame.cellReinforcedEmpty.name=레드스톤 에너지 셀 프레임 (빔)
 tile.thermalexpansion.frame.cellReinforcedFull.name=레드스톤 에너지 셀 프레임 (가득참)
 tile.thermalexpansion.frame.tesseractEmpty.name=테서락트 프레임 (빔)
 tile.thermalexpansion.frame.tesseractFull.name=테서락트 프레임 (가득참)
-tile.thermalexpansion.frame.illuminator.name=일루미네이터 프레임
+tile.thermalexpansion.frame.illuminator.name=조명기 틀
 
 tile.thermalexpansion.glass.name=강화 유리
 
 #tile.thermalexpansion.light.name=6-Mode Lighting
-tile.thermalexpansion.light.illuminator.name=글로우스톤 일루미네이터
+tile.thermalexpansion.light.illuminator.name=발광석 조명기
 tile.thermalexpansion.light.lampBasic.name=루미움 램프
 
-tile.thermalexpansion.machine.furnace.name=레드스톤 퍼넨스
-tile.thermalexpansion.machine.pulverizer.name=펄버라이저
-tile.thermalexpansion.machine.sawmill.name=쏘밀
-tile.thermalexpansion.machine.smelter.name=인덕션 스멜터
-tile.thermalexpansion.machine.crucible.name=마그마 크루시블
-tile.thermalexpansion.machine.transposer.name=플루이드 트랜스포저
-tile.thermalexpansion.machine.precipitator.name=글래셜 프리시피테이터
-tile.thermalexpansion.machine.extruder.name=이그니우스 익스트루더
-tile.thermalexpansion.machine.accumulator.name=에퀴어스 에큐물레이터
-tile.thermalexpansion.machine.assembler.name=사이클릭 어셈블러
-tile.thermalexpansion.machine.charger.name=에너제틱 인퓨저
+tile.thermalexpansion.machine.furnace.name=레드스톤 화로
+tile.thermalexpansion.machine.pulverizer.name=분쇄기
+tile.thermalexpansion.machine.sawmill.name=제재기
+tile.thermalexpansion.machine.smelter.name=합금 제련소
+tile.thermalexpansion.machine.crucible.name=융해 도가니
+tile.thermalexpansion.machine.transposer.name=액체 운송기
+tile.thermalexpansion.machine.precipitator.name=동력 냉각기
+tile.thermalexpansion.machine.extruder.name=화성암 생성기
+tile.thermalexpansion.machine.accumulator.name=물 축적기
+tile.thermalexpansion.machine.assembler.name=순환 조합기
+tile.thermalexpansion.machine.charger.name=주입기
 
 tile.thermalexpansion.rockwool.black.name=검은색 석면
 tile.thermalexpansion.rockwool.red.name=빨간색 석면
@@ -425,14 +425,14 @@ tile.thermalexpansion.sponge.creative.name=크리에이티브 스펀지
 tile.thermalexpansion.sponge.basic.name=플레인 스펀지
 tile.thermalexpansion.sponge.magmatic.name=마그마틱 스펀지
 
-tile.thermalexpansion.strongbox.creative.name=크리에이티브 스트롱 박스
-tile.thermalexpansion.strongbox.basic.name=스트롱 박스
-tile.thermalexpansion.strongbox.hardened.name=하든드 스트롱 박스
-tile.thermalexpansion.strongbox.reinforced.name=리인포스드 스트롱 박스
-tile.thermalexpansion.strongbox.resonant.name=레조넌트 스트롱 박스
+tile.thermalexpansion.strongbox.creative.name=크리에이티브 금고
+tile.thermalexpansion.strongbox.basic.name=금고
+tile.thermalexpansion.strongbox.hardened.name=경화 금고
+tile.thermalexpansion.strongbox.reinforced.name=강화 금고
+tile.thermalexpansion.strongbox.resonant.name=공진 금고
 
 tile.thermalexpansion.tank.creative.name=크리에이티브 포터블 탱크
 tile.thermalexpansion.tank.basic.name=포터블 탱크
-tile.thermalexpansion.tank.hardened.name=하든드 포터블 탱크
-tile.thermalexpansion.tank.reinforced.name=리인포스트 포터블 탱크
-tile.thermalexpansion.tank.resonant.name=레조넌트 포터블 탱크
+tile.thermalexpansion.tank.hardened.name=경화 포터블 탱크
+tile.thermalexpansion.tank.reinforced.name=강화 포터블 탱크
+tile.thermalexpansion.tank.resonant.name=공진 포터블 탱크
