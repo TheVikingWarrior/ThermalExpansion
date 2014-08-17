@@ -1,6 +1,6 @@
 #ko_KR
 
-#업적(Achievement)
+#도전과제(Achievement)
 achievement.thermalexpansion.base=써멀 익스펜션에 어서오세요!
 achievement.thermalexpansion.base.desc=드디어 시작입니다.
 achievement.thermalexpansion.machineFrame=프레임!
@@ -242,7 +242,7 @@ item.thermalexpansion.material.pneumaticServo.name=공압 제어장치
 item.thermalexpansion.material.powerCoilGold.name=레드스톤 수신 코일
 item.thermalexpansion.material.powerCoilSilver.name=레드스톤 전송 코일
 item.thermalexpansion.material.powerCoilElectrum.name=레드스톤 전도 코일
-item.thermalexpansion.material.lock.name=시그날룸 보안 장치
+item.thermalexpansion.material.lock.name=시그날룸 자물쇠
 
 item.thermalexpansion.material.dustWood.name=톱밥
 item.thermalexpansion.material.dustWoodCompressed.name=압축 톱밥
@@ -347,7 +347,7 @@ tab.thermalexpansion.storage.enchant=더 많은 아이템을 보관 가능하게
 tab.thermalexpansion.strongbox.0=이것은 상자입니다! 물건을 저장합니다. 뭐... 대부분의 물건 말입니다.
 tab.thermalexpansion.strongbox.creative=한가지의 무한한 아이템을 보유하고 있습니다!
 
-#Blocks
+#블럭(Blocks)
 tile.thermalexpansion.cache.creative.name=크리에이티브 캐시
 tile.thermalexpansion.cache.basic.name=기본 캐시
 tile.thermalexpansion.cache.hardened.name=경화 캐시
@@ -432,8 +432,8 @@ tile.thermalexpansion.strongbox.hardened.name=경화 금고
 tile.thermalexpansion.strongbox.reinforced.name=강화 금고
 tile.thermalexpansion.strongbox.resonant.name=공진 금고
 
-tile.thermalexpansion.tank.creative.name=크리에이티브 포터블 탱크
-tile.thermalexpansion.tank.basic.name=포터블 탱크
-tile.thermalexpansion.tank.hardened.name=경화 포터블 탱크
-tile.thermalexpansion.tank.reinforced.name=강화 포터블 탱크
-tile.thermalexpansion.tank.resonant.name=공진 포터블 탱크
+tile.thermalexpansion.tank.creative.name=크리에이티브 휴대용 탱크
+tile.thermalexpansion.tank.basic.name=휴대용 탱크
+tile.thermalexpansion.tank.hardened.name=경화 휴대용 탱크
+tile.thermalexpansion.tank.reinforced.name=강화 휴대용 탱크
+tile.thermalexpansion.tank.resonant.name=공진 휴대용 탱크
